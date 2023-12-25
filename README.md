@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [A Laboratory Data Management Solution](https://github.com/collins-orian/labxact_VEM)
 
-- 💬 Ask me about **DatabasesPython, Javascript and frameworks such as Flask, Django, React, Vue**
+- 💬 Ask me about **Databases, Python, Javascript and frameworks such as Flask, Django, React, Vue**
 
 - 📫 How to reach me **iocdevservices@outlook.com**
 
